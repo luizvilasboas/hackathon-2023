@@ -86,7 +86,7 @@ Correction results are stored in an organized data management system (SQLite). T
 Clone the repository to your local system:
 
 ```
-git clone https://gitlab.com/ufv-projects/hackathon-2023.git
+git clone https://github.com/luizvilasboas/hackathon-2023.git
 ```
 
 Navigate to the project directory:
